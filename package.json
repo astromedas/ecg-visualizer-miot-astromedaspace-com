@@ -1,5 +1,5 @@
 { "homepage" : "https://astromedas.github.io/ecg-visualizer-miot-astromedaspace-com",
-  "name": "ecg-display",
+  "name": "ecg-visualizer-miot-astromedaspace-com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
